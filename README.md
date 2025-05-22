@@ -43,9 +43,11 @@ This project explores global emigration trends from 1990 to 2020 and forecasts f
 
 ---
 
+You can find the code in the .ipynb file
+
 ## 📌 How to Run
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/global-emigration-outlook.git
+   git clone https://github.com/anastai99/global-emigration-outlook.git
    cd global-emigration-outlook
